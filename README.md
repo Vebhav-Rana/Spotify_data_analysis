@@ -33,3 +33,6 @@ The popularity column helped in comparing and doing analysis between different a
 ## Project status
 Project is completed, but it can be improved more in future by adding better visualizations and deeper analysis.
 
+Note: The dataset is not previewed on GitHub due to file size/format limitations.  
+The notebook was run locally with the dataset available.
+
